@@ -75,22 +75,6 @@ streamlit run app/ui.py
 ```
 
 ---
-
-## File Structure
-
-```
-.
-├── data/
-│   ├── dorm_timeseries_1day_custom.json   # Sample time-series input
-│   └── relations.json                     # Graph structure
-├── timestamp/
-│   └── timeseries_data.csv                # Generated data output
-├── generate_timeseries.py                 # Sensor data simulation
-├── slice_json.py                          # LLM-based query logic
-├── streamlit_app.py                       # Streamlit frontend
-└── README.md
-```
-
 ---
 
 ## Example Queries
