@@ -1,0 +1,1950 @@
+﻿[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_101",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:0"
+    },
+    "r": {
+      "identity": 6917529027641081874,
+      "start": 0,
+      "end": 18,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081874",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:0",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:18"
+    },
+    "m": {
+      "identity": 18,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_01"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:18"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_101",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:0"
+    },
+    "r": {
+      "identity": 6917529027641081875,
+      "start": 0,
+      "end": 19,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081875",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:0",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:19"
+    },
+    "m": {
+      "identity": 19,
+      "labels": [
+        "OccupancySensor"
+      ],
+      "properties": {
+        "name": "OccSensor_01"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:19"
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_102",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1"
+    },
+    "r": {
+      "identity": 6917529027641081876,
+      "start": 1,
+      "end": 20,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081876",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:20"
+    },
+    "m": {
+      "identity": 20,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_02"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:20"
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_102",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1"
+    },
+    "r": {
+      "identity": 6917529027641081877,
+      "start": 1,
+      "end": 21,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081877",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:21"
+    },
+    "m": {
+      "identity": 21,
+      "labels": [
+        "OccupancySensor"
+      ],
+      "properties": {
+        "name": "OccSensor_02"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:21"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_103",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:2"
+    },
+    "r": {
+      "identity": 6917529027641081878,
+      "start": 2,
+      "end": 22,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081878",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:2",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:22"
+    },
+    "m": {
+      "identity": 22,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_03"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:22"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_103",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:2"
+    },
+    "r": {
+      "identity": 6917529027641081879,
+      "start": 2,
+      "end": 23,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081879",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:2",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:23"
+    },
+    "m": {
+      "identity": 23,
+      "labels": [
+        "OccupancySensor"
+      ],
+      "properties": {
+        "name": "OccSensor_03"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:23"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_104",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:3"
+    },
+    "r": {
+      "identity": 6917529027641081880,
+      "start": 3,
+      "end": 24,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081880",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:3",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:24"
+    },
+    "m": {
+      "identity": 24,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_04"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:24"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_104",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:3"
+    },
+    "r": {
+      "identity": 6917529027641081881,
+      "start": 3,
+      "end": 25,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081881",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:3",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:25"
+    },
+    "m": {
+      "identity": 25,
+      "labels": [
+        "OccupancySensor"
+      ],
+      "properties": {
+        "name": "OccSensor_04"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:25"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_105",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:4"
+    },
+    "r": {
+      "identity": 6917529027641081882,
+      "start": 4,
+      "end": 26,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081882",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:4",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:26"
+    },
+    "m": {
+      "identity": 26,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_05"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:26"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_105",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:4"
+    },
+    "r": {
+      "identity": 6917529027641081883,
+      "start": 4,
+      "end": 27,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081883",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:4",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:27"
+    },
+    "m": {
+      "identity": 27,
+      "labels": [
+        "OccupancySensor"
+      ],
+      "properties": {
+        "name": "OccSensor_05"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:27"
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_106",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:5"
+    },
+    "r": {
+      "identity": 6917529027641081884,
+      "start": 5,
+      "end": 28,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081884",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:5",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:28"
+    },
+    "m": {
+      "identity": 28,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_06"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:28"
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_106",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:5"
+    },
+    "r": {
+      "identity": 6917529027641081885,
+      "start": 5,
+      "end": 29,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081885",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:5",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:29"
+    },
+    "m": {
+      "identity": 29,
+      "labels": [
+        "OccupancySensor"
+      ],
+      "properties": {
+        "name": "OccSensor_06"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:29"
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_101",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:8"
+    },
+    "r": {
+      "identity": 6917529027641081886,
+      "start": 8,
+      "end": 30,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081886",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:8",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:30"
+    },
+    "m": {
+      "identity": 30,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_01"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:30"
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_101",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:8"
+    },
+    "r": {
+      "identity": 6917529027641081887,
+      "start": 8,
+      "end": 31,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081887",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:8",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:31"
+    },
+    "m": {
+      "identity": 31,
+      "labels": [
+        "OccupancySensor"
+      ],
+      "properties": {
+        "name": "OccSensor_01"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:31"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_102",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:9"
+    },
+    "r": {
+      "identity": 6917529027641081888,
+      "start": 9,
+      "end": 32,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081888",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:9",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:32"
+    },
+    "m": {
+      "identity": 32,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_02"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:32"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_102",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:9"
+    },
+    "r": {
+      "identity": 6917529027641081889,
+      "start": 9,
+      "end": 33,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081889",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:9",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:33"
+    },
+    "m": {
+      "identity": 33,
+      "labels": [
+        "OccupancySensor"
+      ],
+      "properties": {
+        "name": "OccSensor_02"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:33"
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_103",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:10"
+    },
+    "r": {
+      "identity": 6917529027641081890,
+      "start": 10,
+      "end": 34,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081890",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:10",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:34"
+    },
+    "m": {
+      "identity": 34,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_03"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:34"
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_103",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:10"
+    },
+    "r": {
+      "identity": 6917529027641081891,
+      "start": 10,
+      "end": 35,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081891",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:10",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:35"
+    },
+    "m": {
+      "identity": 35,
+      "labels": [
+        "OccupancySensor"
+      ],
+      "properties": {
+        "name": "OccSensor_03"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:35"
+    }
+  },
+  {
+    "n": {
+      "identity": 11,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_104",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:11"
+    },
+    "r": {
+      "identity": 6917529027641081892,
+      "start": 11,
+      "end": 36,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081892",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:11",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:36"
+    },
+    "m": {
+      "identity": 36,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_04"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:36"
+    }
+  },
+  {
+    "n": {
+      "identity": 11,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_104",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:11"
+    },
+    "r": {
+      "identity": 6917529027641081893,
+      "start": 11,
+      "end": 37,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081893",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:11",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:37"
+    },
+    "m": {
+      "identity": 37,
+      "labels": [
+        "OccupancySensor"
+      ],
+      "properties": {
+        "name": "OccSensor_04"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:37"
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_105",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:12"
+    },
+    "r": {
+      "identity": 6917529027641081894,
+      "start": 12,
+      "end": 38,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081894",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:12",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:38"
+    },
+    "m": {
+      "identity": 38,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_05"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:38"
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_105",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:12"
+    },
+    "r": {
+      "identity": 6917529027641081895,
+      "start": 12,
+      "end": 39,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081895",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:12",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:39"
+    },
+    "m": {
+      "identity": 39,
+      "labels": [
+        "OccupancySensor"
+      ],
+      "properties": {
+        "name": "OccSensor_05"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:39"
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_106",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:13"
+    },
+    "r": {
+      "identity": 6917529027641081896,
+      "start": 13,
+      "end": 40,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081896",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:13",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:40"
+    },
+    "m": {
+      "identity": 40,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_06"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:40"
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_106",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:13"
+    },
+    "r": {
+      "identity": 6917529027641081897,
+      "start": 13,
+      "end": 41,
+      "type": "HAS_SENSOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6917529027641081897",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:13",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:41"
+    },
+    "m": {
+      "identity": 41,
+      "labels": [
+        "OccupancySensor"
+      ],
+      "properties": {
+        "name": "OccSensor_06"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:41"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_1"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16"
+    },
+    "r": {
+      "identity": 1152923703630102544,
+      "start": 16,
+      "end": 0,
+      "type": "SERVICES",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1152923703630102544",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:0"
+    },
+    "m": {
+      "identity": 0,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_101",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:0"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_1"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16"
+    },
+    "r": {
+      "identity": 1157427303257473040,
+      "start": 16,
+      "end": 1,
+      "type": "SERVICES",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1157427303257473040",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_102",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_1"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16"
+    },
+    "r": {
+      "identity": 1161930902884843536,
+      "start": 16,
+      "end": 2,
+      "type": "SERVICES",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1161930902884843536",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:2"
+    },
+    "m": {
+      "identity": 2,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_103",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:2"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_1"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16"
+    },
+    "r": {
+      "identity": 1155175503443787792,
+      "start": 16,
+      "end": 8,
+      "type": "SERVICES",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1155175503443787792",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:8"
+    },
+    "m": {
+      "identity": 8,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_101",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:8"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_1"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16"
+    },
+    "r": {
+      "identity": 1159679103071158288,
+      "start": 16,
+      "end": 9,
+      "type": "SERVICES",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1159679103071158288",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:9"
+    },
+    "m": {
+      "identity": 9,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_102",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:9"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_1"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16"
+    },
+    "r": {
+      "identity": 1164182702698528784,
+      "start": 16,
+      "end": 10,
+      "type": "SERVICES",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1164182702698528784",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:10"
+    },
+    "m": {
+      "identity": 10,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_103",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:10"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_1"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16"
+    },
+    "r": {
+      "identity": 1152924803141730320,
+      "start": 16,
+      "end": 6,
+      "type": "LOCATED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1152924803141730320",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6"
+    },
+    "m": {
+      "identity": 6,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Mechanical_1",
+        "type": "mechanical"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_1"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16"
+    },
+    "r": {
+      "identity": 1155176602955415568,
+      "start": 16,
+      "end": 6,
+      "type": "LOCATED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1155176602955415568",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6"
+    },
+    "m": {
+      "identity": 6,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Mechanical_1",
+        "type": "mechanical"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:6"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_1"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16"
+    },
+    "r": {
+      "identity": 1157428402769100816,
+      "start": 16,
+      "end": 14,
+      "type": "LOCATED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1157428402769100816",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:14"
+    },
+    "m": {
+      "identity": 14,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Mechanical_1",
+        "type": "mechanical"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:14"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_1"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16"
+    },
+    "r": {
+      "identity": 1159680202582786064,
+      "start": 16,
+      "end": 14,
+      "type": "LOCATED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1159680202582786064",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:14"
+    },
+    "m": {
+      "identity": 14,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Mechanical_1",
+        "type": "mechanical"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:14"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_2"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17"
+    },
+    "r": {
+      "identity": 1152923703630102545,
+      "start": 17,
+      "end": 3,
+      "type": "SERVICES",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1152923703630102545",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:3"
+    },
+    "m": {
+      "identity": 3,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_104",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:3"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_2"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17"
+    },
+    "r": {
+      "identity": 1157427303257473041,
+      "start": 17,
+      "end": 4,
+      "type": "SERVICES",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1157427303257473041",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:4"
+    },
+    "m": {
+      "identity": 4,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_105",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:4"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_2"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17"
+    },
+    "r": {
+      "identity": 1161930902884843537,
+      "start": 17,
+      "end": 5,
+      "type": "SERVICES",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1161930902884843537",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:5"
+    },
+    "m": {
+      "identity": 5,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_106",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:5"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_2"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17"
+    },
+    "r": {
+      "identity": 1155175503443787793,
+      "start": 17,
+      "end": 11,
+      "type": "SERVICES",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1155175503443787793",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:11"
+    },
+    "m": {
+      "identity": 11,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_104",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:11"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_2"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17"
+    },
+    "r": {
+      "identity": 1159679103071158289,
+      "start": 17,
+      "end": 12,
+      "type": "SERVICES",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1159679103071158289",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_105",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_2"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17"
+    },
+    "r": {
+      "identity": 1164182702698528785,
+      "start": 17,
+      "end": 13,
+      "type": "SERVICES",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1164182702698528785",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:13"
+    },
+    "m": {
+      "identity": 13,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Dorm_106",
+        "type": "dorm"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:13"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_2"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17"
+    },
+    "r": {
+      "identity": 1152924803141730321,
+      "start": 17,
+      "end": 7,
+      "type": "LOCATED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1152924803141730321",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:7"
+    },
+    "m": {
+      "identity": 7,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Mechanical_2",
+        "type": "mechanical"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:7"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_2"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17"
+    },
+    "r": {
+      "identity": 1157428402769100817,
+      "start": 17,
+      "end": 7,
+      "type": "LOCATED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1157428402769100817",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:7"
+    },
+    "m": {
+      "identity": 7,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Mechanical_2",
+        "type": "mechanical"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:7"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_2"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17"
+    },
+    "r": {
+      "identity": 1155176602955415569,
+      "start": 17,
+      "end": 15,
+      "type": "LOCATED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1155176602955415569",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:15"
+    },
+    "m": {
+      "identity": 15,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Mechanical_2",
+        "type": "mechanical"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:15"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_2"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17"
+    },
+    "r": {
+      "identity": 1159680202582786065,
+      "start": 17,
+      "end": 15,
+      "type": "LOCATED_IN",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1159680202582786065",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:15"
+    },
+    "m": {
+      "identity": 15,
+      "labels": [
+        "Room"
+      ],
+      "properties": {
+        "name": "Mechanical_2",
+        "type": "mechanical"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:15"
+    }
+  },
+  {
+    "n": {
+      "identity": 18,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_01"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:18"
+    },
+    "r": {
+      "identity": 1152925902653358098,
+      "start": 18,
+      "end": 16,
+      "type": "MONITORS_FOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1152925902653358098",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:18",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16"
+    },
+    "m": {
+      "identity": 16,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_1"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16"
+    }
+  },
+  {
+    "n": {
+      "identity": 20,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_02"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:20"
+    },
+    "r": {
+      "identity": 1152925902653358100,
+      "start": 20,
+      "end": 16,
+      "type": "MONITORS_FOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1152925902653358100",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:20",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16"
+    },
+    "m": {
+      "identity": 16,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_1"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16"
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_03"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:22"
+    },
+    "r": {
+      "identity": 1152925902653358102,
+      "start": 22,
+      "end": 16,
+      "type": "MONITORS_FOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1152925902653358102",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:22",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16"
+    },
+    "m": {
+      "identity": 16,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_1"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16"
+    }
+  },
+  {
+    "n": {
+      "identity": 24,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_04"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:24"
+    },
+    "r": {
+      "identity": 1152925902653358104,
+      "start": 24,
+      "end": 17,
+      "type": "MONITORS_FOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1152925902653358104",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:24",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17"
+    },
+    "m": {
+      "identity": 17,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_2"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17"
+    }
+  },
+  {
+    "n": {
+      "identity": 26,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_05"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:26"
+    },
+    "r": {
+      "identity": 1152925902653358106,
+      "start": 26,
+      "end": 17,
+      "type": "MONITORS_FOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1152925902653358106",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:26",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17"
+    },
+    "m": {
+      "identity": 17,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_2"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17"
+    }
+  },
+  {
+    "n": {
+      "identity": 28,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_06"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:28"
+    },
+    "r": {
+      "identity": 1152925902653358108,
+      "start": 28,
+      "end": 17,
+      "type": "MONITORS_FOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1152925902653358108",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:28",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17"
+    },
+    "m": {
+      "identity": 17,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_2"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17"
+    }
+  },
+  {
+    "n": {
+      "identity": 30,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_01"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:30"
+    },
+    "r": {
+      "identity": 1152925902653358110,
+      "start": 30,
+      "end": 16,
+      "type": "MONITORS_FOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1152925902653358110",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:30",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16"
+    },
+    "m": {
+      "identity": 16,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_1"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16"
+    }
+  },
+  {
+    "n": {
+      "identity": 32,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_02"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:32"
+    },
+    "r": {
+      "identity": 1152925902653358112,
+      "start": 32,
+      "end": 16,
+      "type": "MONITORS_FOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1152925902653358112",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:32",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16"
+    },
+    "m": {
+      "identity": 16,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_1"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16"
+    }
+  },
+  {
+    "n": {
+      "identity": 34,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_03"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:34"
+    },
+    "r": {
+      "identity": 1152925902653358114,
+      "start": 34,
+      "end": 16,
+      "type": "MONITORS_FOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1152925902653358114",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:34",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16"
+    },
+    "m": {
+      "identity": 16,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_1"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:16"
+    }
+  },
+  {
+    "n": {
+      "identity": 36,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_04"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:36"
+    },
+    "r": {
+      "identity": 1152925902653358116,
+      "start": 36,
+      "end": 17,
+      "type": "MONITORS_FOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1152925902653358116",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:36",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17"
+    },
+    "m": {
+      "identity": 17,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_2"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17"
+    }
+  },
+  {
+    "n": {
+      "identity": 38,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_05"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:38"
+    },
+    "r": {
+      "identity": 1152925902653358118,
+      "start": 38,
+      "end": 17,
+      "type": "MONITORS_FOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1152925902653358118",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:38",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17"
+    },
+    "m": {
+      "identity": 17,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_2"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17"
+    }
+  },
+  {
+    "n": {
+      "identity": 40,
+      "labels": [
+        "TemperatureSensor"
+      ],
+      "properties": {
+        "name": "TempSensor_06"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:40"
+    },
+    "r": {
+      "identity": 1152925902653358120,
+      "start": 40,
+      "end": 17,
+      "type": "MONITORS_FOR",
+      "properties": {
+
+      },
+      "elementId": "5:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:1152925902653358120",
+      "startNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:40",
+      "endNodeElementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17"
+    },
+    "m": {
+      "identity": 17,
+      "labels": [
+        "AC_Unit"
+      ],
+      "properties": {
+        "name": "AC_Unit_2"
+      },
+      "elementId": "4:c5c5fff4-714b-4a89-9ba2-22b204cde6e1:17"
+    }
+  }
+]
