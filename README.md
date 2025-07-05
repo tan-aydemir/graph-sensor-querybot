@@ -104,5 +104,5 @@ streamlit run app/ui.py
 ---
 
 ## Notes
-* The project uses `gpt-4o-mini` for both filter extraction and answering user queries.
+* The project uses `gpt-4o-mini` for both filter extraction and answering user queries
 ---
