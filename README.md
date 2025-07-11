@@ -12,7 +12,7 @@ This system integrates three components:
 2. **Time-series simulation** of occupancy and temperature data over a 7-day period.
 3. **LLM-based query interface** that enables users to ask natural language questions and receive data-driven insights.
 
-The goal is to simulate a smart facility setting, where a user can explore building data through intuitive queries.
+My goal is to simulate a smart facility setting, where a user can explore building data through intuitive queries.
 
 ---
 
